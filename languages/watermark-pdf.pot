@@ -1,0 +1,345 @@
+# Copyright (C) 2024 GrandPlugins
+# This file is distributed under the same license as the WP Watermark PDF [[GrandPlugins]] plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Watermark PDF [[GrandPlugins]] 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-wmpdf-watermark-pdf\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-19T18:46:59+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: watermark-pdf\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\WatermarkPDF\wp-content\plugins\gpls-wmpdf-watermark-pdf\gpls-wmpdf-watermark-pdf.php
+msgid "WP Watermark PDF [[GrandPlugins]]"
+msgstr ""
+
+#. Description of the plugin
+#: C:\laragon\www\WatermarkPDF\wp-content\plugins\gpls-wmpdf-watermark-pdf\gpls-wmpdf-watermark-pdf.php
+msgid "Add Text and Image Watermarks to PDF files."
+msgstr ""
+
+#. Author of the plugin
+#: C:\laragon\www\WatermarkPDF\wp-content\plugins\gpls-wmpdf-watermark-pdf\gpls-wmpdf-watermark-pdf.php
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\laragon\www\WatermarkPDF\wp-content\plugins\gpls-wmpdf-watermark-pdf\gpls-wmpdf-watermark-pdf.php
+msgid "https://grandplugins.com"
+msgstr ""
+
+#: includes/class-fpdi-wrapper.php:162
+msgid "Failed to detect the PDF version."
+msgstr ""
+
+#: includes/class-pdf-watermark.php:210
+msgid "Invalid PDF Path"
+msgstr ""
+
+#: includes/class-pdf-watermark.php:236
+#: includes/class-single-apply-watermarks.php:201
+msgid "The link has expired, please refresh the page!"
+msgstr ""
+
+#: includes/class-pdf-watermark.php:415
+#: includes/class-pdf-watermark.php:442
+#: includes/class-pdf-watermark.php:485
+msgid "Status"
+msgstr ""
+
+#: includes/class-pdf-watermark.php:441
+#: includes/class-pdf-watermark.php:484
+msgid "PDF file uses an advanced compression technique and it seems Ghostscript is not installed. Please check %s page for more details."
+msgstr ""
+
+#: includes/class-pdf.php:80
+msgid "Image file sub-size: %s not found!"
+msgstr ""
+
+#: includes/class-pdf.php:87
+msgid "image file %s not found!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:101
+msgid "Watermark"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:102
+msgid "Select PDFs"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:103
+msgid "Select PDF"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:104
+msgid "Select Watermark"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:105
+msgid "Choose Watermark"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:106
+msgid "The selected watermark is bigger than the image"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:107
+msgid "Search Term"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:108
+msgid "Search Terms"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:109
+msgid "You are about to remove a watermark, confirm?"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:136
+msgid "Selected media doesn't exist!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:145
+msgid "Apply rules are empty!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:153
+msgid "No selected image!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:192
+msgid "Watermarks have been applied successfully!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:236
+msgid "Failed to create watermarked pdf file!"
+msgstr ""
+
+#: includes/class-single-apply-watermarks.php:253
+msgid "Failed to create pdf watermarked attachment!"
+msgstr ""
+
+#: includes/class-watermark-base.php:118
+msgid "Failed to create watermarked image!"
+msgstr ""
+
+#: includes/pdf-converter/GhostscriptConverter.php:56
+msgid "proc_open() function seems not available. Any PDF file has advanced compression technique will fail for watermarking, please contact your hosting support if it can be enabled or consider upgrading to a higher hosting plan"
+msgstr ""
+
+#: includes/Settings.php:128
+msgid "Only True Type fonts are allowed"
+msgstr ""
+
+#: includes/Settings.php:129
+msgid "Select images"
+msgstr ""
+
+#: includes/Settings.php:156
+#: includes/Settings.php:157
+msgid "Watermark PDF"
+msgstr ""
+
+#: includes/Settings.php:164
+msgid "Single Editor"
+msgstr ""
+
+#: includes/Settings.php:165
+msgid "Single PDF Watermarker"
+msgstr ""
+
+#: includes/Settings.php:173
+#: includes/Settings.php:174
+msgid "Settings"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:17
+msgid "Single PDF Watermarks Editor"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:18
+msgid "Select a PDF file and apply watermarks on it"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:22
+msgid "Watermark PDF files in bulk, Apply watermarks automatically on PDF files, PDF backups, Dynamic watermarks for WooCommerce PDFs and MasterStudy LMS PDFs are features of "
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:35
+msgid "Select pdf"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:38
+msgid "Media Gallery"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:42
+msgid "Add Watermark"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:45
+msgid "Image Watermark"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:49
+msgid "Text Watermark"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:99
+msgid "Preview Watermarks"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:100
+msgid "This will show how the watermarks will be applied on pdf, It is applied on a separate pdf which is created temporarily for the preview"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:123
+msgid "How to apply the watermarks"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:129
+msgid "Create new"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:130
+msgid "Create a separate watermarked pdf"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:135
+msgid "Overwrite"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:136
+msgid "Overwrite the original pdf"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:141
+msgid "Apply Watermarks"
+msgstr ""
+
+#: templates/single-apply-watermarks-template.php:157
+msgid "Current Watermarks"
+msgstr ""
+
+#: templates/status-template.php:54
+msgid "Version check result: "
+msgstr ""
+
+#: templates/status-template.php:66
+msgid "Used for"
+msgstr ""
+
+#: templates/status-template.php:68
+msgid "Watermark PDF files with version more than 1.4"
+msgstr ""
+
+#: templates/status-template.php:77
+msgid "Install command"
+msgstr ""
+
+#: templates/status-template.php:101
+msgid "proc_open() function seems not available, please contact your hosting support if it can be enabled or consider upgrading to a higher hosting plan"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:15
+msgid "Width"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:25
+msgid "Height"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:37
+msgid "Text"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:43
+msgid "Color"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:49
+msgid "Font Size"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:55
+msgid "Font Family"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:68
+msgid "Opacity"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:75
+msgid "Position"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:76
+msgid "Select which side on the PDF which the watermark will be placed at."
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:91
+msgid "Relative to center"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:92
+msgid "Set offset and rotation relative to the watermark's center instead of the watermark's left-top corner"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:97
+msgid "Offset"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:98
+msgid "The offset is calculated from the side's left-top corner which is selected from the position above"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:102
+msgid "Pixels"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:106
+msgid "percentage"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:111
+msgid "Left"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:124
+msgid "Top"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:159
+msgid "Repeat"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:165
+msgid "Repeat Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:168
+msgid "Select"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:179
+msgid "Repeat Axis Offset"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:183
+msgid "X Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:190
+msgid "Y Axis"
+msgstr ""
+
+#: templates/watermark-specs-template-metabox.php:201
+msgid "Rotation"
+msgstr ""
